@@ -8,22 +8,22 @@
 ## Prerequisites
   
   #### Very Basic Linux Commands
-    [https://linuxize.com/post/basic-linux-commands/]
+    https://linuxize.com/post/basic-linux-commands/
     ls
       lists everything in the current directory
-      Detailed Explanation: [https://linuxize.com/post/how-to-list-files-in-linux-using-the-ls-command/]
+      Detailed Explanation: https://linuxize.com/post/how-to-list-files-in-linux-using-the-ls-command/
     cd
       changes the current directory
-      Detailed Explanation: [https://linuxize.com/post/linux-cd-command/]
+      Detailed Explanation: https://linuxize.com/post/linux-cd-command/
     cat
       prints the contact of a file
-      Detailed Explanation: [https://linuxize.com/post/linux-cat-command/]
+      Detailed Explanation: https://linuxize.com/post/linux-cat-command/
     rm
       removes a file
-      Detailed Explanation: [https://linuxize.com/post/rm-command-in-linux/]
+      Detailed Explanation: https://linuxize.com/post/rm-command-in-linux/
     wget
       downloads a file from the web
-      Detailed Explanation: [https://linuxize.com/post/wget-command-examples/]
+      Detailed Explanation: https://linuxize.com/post/wget-command-examples/
       
   #### Recommended installed apps (these are download links):
     VS Code
