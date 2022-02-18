@@ -9,29 +9,29 @@
   
   #### Very Basic Linux Commands
   https://linuxize.com/post/basic-linux-commands/  
-  ls  
+   ######ls  
     lists everything in the current directory  
     Detailed Explanation: https://linuxize.com/post/how-to-list-files-in-linux-using-the-ls-command/  
-  cd  
+   ######cd  
     changes the current directory  
     Detailed Explanation: https://linuxize.com/post/linux-cd-command/  
-  cat  
+  ######cat  
     prints the contact of a file  
     Detailed Explanation: https://linuxize.com/post/linux-cat-command/  
-  rm  
+  ######rm  
     removes a file  
     Detailed Explanation: https://linuxize.com/post/rm-command-in-linux/  
-  wget  
+  ######wget  
     downloads a file from the web  
     Detailed Explanation: https://linuxize.com/post/wget-command-examples/  
       
   #### Recommended installed apps (these are download links):  
-  VS Code  
+  ######VS Code  
     https://code.visualstudio.com/download  
-  VMWare workstation player  
+  ######VMWare workstation player  
     https://customerconnect.vmware.com/en/downloads/details?downloadGroup=WKST-PLAYER-1622&productId=1039&rPId=82555  
-  Python  
+  ######Python  
     https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe  
-  Hex Editor  
+  ######Hex Editor  
     https://mh-nexus.de/downloads/HxDSetup.zip  
     
