@@ -10,8 +10,8 @@
   #### Very Basic Linux Commands
   https://linuxize.com/post/basic-linux-commands/  
   ###### ls  
-  lists everything in the current directory  
-  Detailed Explanation: https://linuxize.com/post/how-to-list-files-in-linux-using-the-ls-command/  
+  > lists everything in the current directory  
+  > Detailed Explanation: https://linuxize.com/post/how-to-list-files-in-linux-using-the-ls-command/  
   ###### cd  
   changes the current directory  
   Detailed Explanation: https://linuxize.com/post/linux-cd-command/  
