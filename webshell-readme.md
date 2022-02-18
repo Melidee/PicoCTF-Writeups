@@ -1,4 +1,4 @@
-Welcome to the picoCTF webshell!
+# Welcome to the picoCTF webshell!
 
 Use the arrow keys or spacebar to scroll, or type q to exit.
 
