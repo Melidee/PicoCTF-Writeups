@@ -1,9 +1,5 @@
 ## What is PicoCTF
-  PicoCTF is a security competition run by carnegie mellon university that is aimed at high school students, there were 27_000 players in 2021  
-  The competition is 2 weeks long and is jeopardy-board style ctf meaning that players complete small, individual challenges  
-  The competition is based on teams of 10 from different schools around the world  
-  The challenges are worth different amounts of points based on difficulty, harder challenges are worth more  
-  PicoGYM is a resource with all the challenges from previous years so you can practice for the later competitions  
+  PicoCTF is a security competition run by carnegie mellon university that is aimed at high school students, there were 27_000 players in 2021. It is based on teams of 10 from different schools around the world. The competition is 2 weeks long and is jeopardy-board style ctf meaning that players complete small, individual challenges. The challenges are worth different amounts of points based on difficulty, harder challenges are worth more. PicoGYM is a resource with all the challenges from previous years so you can practice for the later competitions.
 
 ## Prerequisites
   
