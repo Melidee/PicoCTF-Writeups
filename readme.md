@@ -6,6 +6,7 @@
 ## Prerequisites
   
   #### Very Basic Linux Commands
+  These are important to using the webshell and Kali Linux
   https://linuxize.com/post/basic-linux-commands/  
   ##### ls  
   > lists everything in the current directory  
