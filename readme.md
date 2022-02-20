@@ -9,7 +9,7 @@
   These are important to using the webshell and Kali Linux
   https://linuxize.com/post/basic-linux-commands/  
   ##### ls  
-  > lists everything in the current directory  >
+  : lists everything in the current directory  >
   > Detailed Explanation: https://linuxize.com/post/how-to-list-files-in-linux-using-the-ls-command/  
   ##### cd  
   > changes the current directory  
